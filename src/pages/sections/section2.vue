@@ -93,37 +93,7 @@
                             max-width: 100%;
                             min-height: 100%;
                             max-height: 100%;
-                          " /><noscript
-                          ><img
-                            alt="lion"
-                            srcset="
-                              /_next/image?url=%2Flion1.jpg&amp;w=256&amp;q=75 1x,
-                              /_next/image?url=%2Flion1.jpg&amp;w=640&amp;q=75 2x
-                            "
-                            src="_next/lion1.jpg"
-                            decoding="async"
-                            data-nimg="intrinsic"
-                            style="
-                              position: absolute;
-                              top: 0;
-                              left: 0;
-                              bottom: 0;
-                              right: 0;
-                              box-sizing: border-box;
-                              padding: 0;
-                              border: none;
-                              margin: auto;
-                              display: block;
-                              width: 0;
-                              height: 0;
-                              min-width: 100%;
-                              max-width: 100%;
-                              min-height: 100%;
-                              max-height: 100%;
-                            "
-                            class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
-                            loading="lazy" /></noscript
-                      ></span>
+                          " /></span>
                     </div>
                     <div class="w-1/2 p-2">
                       <span
@@ -192,37 +162,7 @@
                             max-width: 100%;
                             min-height: 100%;
                             max-height: 100%;
-                          " /><noscript
-                          ><img
-                            alt="lion"
-                            srcset="
-                              /_next/image?url=%2Flion2.jpg&amp;w=256&amp;q=75 1x,
-                              /_next/image?url=%2Flion2.jpg&amp;w=640&amp;q=75 2x
-                            "
-                            src="_next/lion2.jpg"
-                            decoding="async"
-                            data-nimg="intrinsic"
-                            style="
-                              position: absolute;
-                              top: 0;
-                              left: 0;
-                              bottom: 0;
-                              right: 0;
-                              box-sizing: border-box;
-                              padding: 0;
-                              border: none;
-                              margin: auto;
-                              display: block;
-                              width: 0;
-                              height: 0;
-                              min-width: 100%;
-                              max-width: 100%;
-                              min-height: 100%;
-                              max-height: 100%;
-                            "
-                            class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
-                            loading="lazy" /></noscript
-                      ></span>
+                          " /></span>
                     </div>
                     <div class="w-1/2 p-2">
                       <span
@@ -291,37 +231,7 @@
                             max-width: 100%;
                             min-height: 100%;
                             max-height: 100%;
-                          " /><noscript
-                          ><img
-                            alt="lion"
-                            srcset="
-                              /_next/image?url=%2Flion3.jpg&amp;w=256&amp;q=75 1x,
-                              /_next/image?url=%2Flion3.jpg&amp;w=640&amp;q=75 2x
-                            "
-                            src="_next/lion3.jpg"
-                            decoding="async"
-                            data-nimg="intrinsic"
-                            style="
-                              position: absolute;
-                              top: 0;
-                              left: 0;
-                              bottom: 0;
-                              right: 0;
-                              box-sizing: border-box;
-                              padding: 0;
-                              border: none;
-                              margin: auto;
-                              display: block;
-                              width: 0;
-                              height: 0;
-                              min-width: 100%;
-                              max-width: 100%;
-                              min-height: 100%;
-                              max-height: 100%;
-                            "
-                            class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
-                            loading="lazy" /></noscript
-                      ></span>
+                          " /></span>
                     </div>
                     <div class="w-1/2 p-2">
                       <span
@@ -390,33 +300,7 @@
                             max-width: 100%;
                             min-height: 100%;
                             max-height: 100%;
-                          " /><noscript
-                          ><img
-                            alt="lion"
-                            src="_next/lion4.jpg"
-                            decoding="async"
-                            data-nimg="intrinsic"
-                            style="
-                              position: absolute;
-                              top: 0;
-                              left: 0;
-                              bottom: 0;
-                              right: 0;
-                              box-sizing: border-box;
-                              padding: 0;
-                              border: none;
-                              margin: auto;
-                              display: block;
-                              width: 0;
-                              height: 0;
-                              min-width: 100%;
-                              max-width: 100%;
-                              min-height: 100%;
-                              max-height: 100%;
-                            "
-                            class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
-                            loading="lazy" /></noscript
-                      ></span>
+                          " /></span>
                     </div>
                   </div>
                 </div>

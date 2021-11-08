@@ -82,35 +82,7 @@
                 max-width: 100%;
                 min-height: 100%;
                 max-height: 100%;
-              " /><noscript
-              ><img
-                alt="logo"
-                srcset="
-                  /_next/image?url=%2Flogo.png&amp;w=384&amp;q=75 1x,
-                  /_next/image?url=%2Flogo.png&amp;w=640&amp;q=75 2x
-                "
-                src="../assets/images/logo.png"
-                decoding="async"
-                data-nimg="intrinsic"
-                style="
-                  position: absolute;
-                  top: 0;
-                  left: 0;
-                  bottom: 0;
-                  right: 0;
-                  box-sizing: border-box;
-                  padding: 0;
-                  border: none;
-                  margin: auto;
-                  display: block;
-                  width: 0;
-                  height: 0;
-                  min-width: 100%;
-                  max-width: 100%;
-                  min-height: 100%;
-                  max-height: 100%;
-                "
-                loading="lazy" /></noscript></span
+              " /></span
         ></a>
         <ul
           class="
@@ -271,35 +243,7 @@
                       max-width: 100%;
                       min-height: 100%;
                       max-height: 100%;
-                    " /><noscript
-                    ><img
-                      alt="twitter icon"
-                      srcset="
-                        /_next/image?url=%2Ftwitter_icon.png&amp;w=96&amp;q=75  1x,
-                        /_next/image?url=%2Ftwitter_icon.png&amp;w=256&amp;q=75 2x
-                      "
-                      src="_next/twitter_icon.png"
-                      decoding="async"
-                      data-nimg="intrinsic"
-                      style="
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                        bottom: 0;
-                        right: 0;
-                        box-sizing: border-box;
-                        padding: 0;
-                        border: none;
-                        margin: auto;
-                        display: block;
-                        width: 0;
-                        height: 0;
-                        min-width: 100%;
-                        max-width: 100%;
-                        min-height: 100%;
-                        max-height: 100%;
-                      "
-                      loading="lazy" /></noscript></span
+                    " /></span
               ></a>
             </li>
             <li>
@@ -373,35 +317,7 @@
                       max-width: 100%;
                       min-height: 100%;
                       max-height: 100%;
-                    " /><noscript
-                    ><img
-                      alt="discord icon"
-                      srcset="
-                        /_next/image?url=%2Fdiscord_icon.png&amp;w=96&amp;q=75  1x,
-                        /_next/image?url=%2Fdiscord_icon.png&amp;w=256&amp;q=75 2x
-                      "
-                      src="_next/discord_icon.png"
-                      decoding="async"
-                      data-nimg="intrinsic"
-                      style="
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                        bottom: 0;
-                        right: 0;
-                        box-sizing: border-box;
-                        padding: 0;
-                        border: none;
-                        margin: auto;
-                        display: block;
-                        width: 0;
-                        height: 0;
-                        min-width: 100%;
-                        max-width: 100%;
-                        min-height: 100%;
-                        max-height: 100%;
-                      "
-                      loading="lazy" /></noscript></span
+                    " /></span
               ></a>
             </li>
             <li>
@@ -475,35 +391,7 @@
                       max-width: 100%;
                       min-height: 100%;
                       max-height: 100%;
-                    " /><noscript
-                    ><img
-                      alt="instagram icon"
-                      srcset="
-                        /_next/image?url=%2Finstagram_icon.png&amp;w=96&amp;q=75  1x,
-                        /_next/image?url=%2Finstagram_icon.png&amp;w=256&amp;q=75 2x
-                      "
-                      src="_next/instagram_icon.png"
-                      decoding="async"
-                      data-nimg="intrinsic"
-                      style="
-                        position: absolute;
-                        top: 0;
-                        left: 0;
-                        bottom: 0;
-                        right: 0;
-                        box-sizing: border-box;
-                        padding: 0;
-                        border: none;
-                        margin: auto;
-                        display: block;
-                        width: 0;
-                        height: 0;
-                        min-width: 100%;
-                        max-width: 100%;
-                        min-height: 100%;
-                        max-height: 100%;
-                      "
-                      loading="lazy" /></noscript></span
+                    " /></span
               ></a>
             </li>
           </div>

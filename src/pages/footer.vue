@@ -55,7 +55,8 @@
                   "
                   alt=""
                   aria-hidden="true"
-                  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
+                  src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
+                  </span
               ><img
                 alt="lion"
                 src="../assets/images/lion.png"
@@ -78,35 +79,7 @@
                   max-width: 100%;
                   min-height: 100%;
                   max-height: 100%;
-                " /><noscript
-                ><img
-                  alt="lion"
-                  srcset="
-                    /_next/image?url=%2Flion.png&amp;w=640&amp;q=75 1x,
-                    /_next/image?url=%2Flion.png&amp;w=828&amp;q=75 2x
-                  "
-                  src="_next/lion.png"
-                  decoding="async"
-                  data-nimg="intrinsic"
-                  style="
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    bottom: 0;
-                    right: 0;
-                    box-sizing: border-box;
-                    padding: 0;
-                    border: none;
-                    margin: auto;
-                    display: block;
-                    width: 0;
-                    height: 0;
-                    min-width: 100%;
-                    max-width: 100%;
-                    min-height: 100%;
-                    max-height: 100%;
-                  "
-                  loading="lazy" /></noscript
+                " />
             ></span>
           </div>
           <div
