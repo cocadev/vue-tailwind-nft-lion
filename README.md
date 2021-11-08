@@ -1,4 +1,4 @@
-# NFT Crypto VueX & TailwindCSS App - Vue.js with Tailwind
+# NFT Crypto VueX & TailwindCSS App - lazylionsnft
 
 ## Project Info
 
