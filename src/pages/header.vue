@@ -89,7 +89,7 @@
                   /_next/image?url=%2Flogo.png&amp;w=384&amp;q=75 1x,
                   /_next/image?url=%2Flogo.png&amp;w=640&amp;q=75 2x
                 "
-                src="_next/logo.png"
+                src="../assets/images/logo.png"
                 decoding="async"
                 data-nimg="intrinsic"
                 style="
