@@ -10,7 +10,7 @@
               rel="noreferrer"
               class="
                 block
-                bg-blue-800
+                bg-blue-400
                 py-3
                 px-12
                 rounded-3xl

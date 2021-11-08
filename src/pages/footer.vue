@@ -1,7 +1,7 @@
 <template>
     <footer
       class="
-        bg-yellow-300
+        bg-yellow-600
         px-4
         lg:px-12 lg
         py-8
@@ -58,7 +58,7 @@
                   src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
               ><img
                 alt="lion"
-                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                src="../assets/images/lion.png"
                 decoding="async"
                 data-nimg="intrinsic"
                 style="

@@ -106,7 +106,7 @@
                       src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                   ><img
                     alt="lion"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    src="../../assets/images/lion_ashur.jpg"
                     decoding="async"
                     data-nimg="intrinsic"
                     class="bg-blue-400"
@@ -243,7 +243,7 @@
                       src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                   ><img
                     alt="lion"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    src="../../assets/images/lion_anlil.jpg"
                     decoding="async"
                     data-nimg="intrinsic"
                     class="bg-blue-400"
@@ -380,7 +380,7 @@
                       src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                   ><img
                     alt="lion"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    src="../../assets/images/lion_nine.jpg"
                     decoding="async"
                     data-nimg="intrinsic"
                     class="bg-blue-400"
@@ -517,7 +517,7 @@
                       src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                   ><img
                     alt="lion"
-                    src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                    src="../../assets/images/lion_nin.jpg"
                     decoding="async"
                     data-nimg="intrinsic"
                     class="bg-blue-400"

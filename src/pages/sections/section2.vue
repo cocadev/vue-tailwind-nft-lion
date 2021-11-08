@@ -72,7 +72,7 @@
                             src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                         ><img
                           alt="lion"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                          src="../../assets/images/lion1.jpg"
                           decoding="async"
                           data-nimg="intrinsic"
                           class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
@@ -171,7 +171,7 @@
                             src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                         ><img
                           alt="lion"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                          src="../../assets/images/lion2.jpg"
                           decoding="async"
                           data-nimg="intrinsic"
                           class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
@@ -270,7 +270,7 @@
                             src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                         ><img
                           alt="lion"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                          src="../../assets/images/lion3.jpg"
                           decoding="async"
                           data-nimg="intrinsic"
                           class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
@@ -369,7 +369,7 @@
                             src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" /></span
                         ><img
                           alt="lion"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                          src="../../assets/images/lion4.jpg"
                           decoding="async"
                           data-nimg="intrinsic"
                           class="bg-blue-400 rounded-tr-xl rounded-bl-xl"
@@ -393,10 +393,6 @@
                           " /><noscript
                           ><img
                             alt="lion"
-                            srcset="
-                              /_next/image?url=%2Flion4.jpg&amp;w=256&amp;q=75 1x,
-                              /_next/image?url=%2Flion4.jpg&amp;w=640&amp;q=75 2x
-                            "
                             src="_next/lion4.jpg"
                             decoding="async"
                             data-nimg="intrinsic"
