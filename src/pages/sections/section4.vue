@@ -7,15 +7,15 @@
       <a target="_blank" rel="noreferrer" v-for="i in lions" :key="i.id" :href="getLink(i.link)">
         <div class="2xl:max-w-xs py-2 px-2 lex flex-col items-center cursor-pointer Home_lionButton__1HRuZ">
           <div class=" border-4 border-blue-300 w-full rounded-tr-3xl rounded-bl-3xl flex overflow-hidden">
-            <div class="lionContent">
+            <div class="relative inline-block">
               <img :src="white"/>
               <img
                 alt="lion"
                 :src="getImgUrl(i.img)"
                 decoding="async"
                 data-nimg="intrinsic"
-                class="bg-blue-400 lionImg"
-            />
+                class="bg-blue-400 top-0 absolute"
+              />
             </div>
           </div>
           <p class="mt-4 lg:mt-6 text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-bold font-serif text-center">
@@ -26,41 +26,6 @@
     </div>
   </section>
 </template>
-
-<style scoped>
-  .lionContent {
-    box-sizing: border-box;
-    display: inline-block;
-    overflow: hidden;
-    width: initial;
-    height: initial;
-    background: none;
-    opacity: 1;
-    border: 0;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    max-width: 100%;
-  }
-  .lionImg{
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    box-sizing: border-box;
-    padding: 0;
-    border: none;
-    margin: auto;
-    display: block;
-    width: 0;
-    height: 0;
-    min-width: 100%;
-    max-width: 100%;
-    min-height: 100%;
-    max-height: 100%;
-  }
-</style>
 
 <script>
 export default {
