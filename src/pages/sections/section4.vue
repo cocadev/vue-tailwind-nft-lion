@@ -65,22 +65,22 @@
 <script>
 export default {
   name: "Section4",
-    data() {
-      return {
-        white: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=',
-        lions: [
-          { id: 1, name: 'Ashur', img: "lion_ashur.jpg", link: 'AshurNft'},
-          { id: 2, name: 'Anlion', img: "lion_anlil.jpg", link: 'LazyLionAnlion'},
-          { id: 3, name: 'Nine', img: "lion_nine.jpg", link: 'NineNft'},
-          { id: 4, name: 'Nin', img: "lion_nin.jpg", link: 'NinLioness'},
-        ],
-        getImgUrl(pic) {
-          return require('../../assets/images/'+ pic)
-        },
-        getLink(link) {
-          return 'https://twitter.com/'+ link
-        }
-      };
-    },
+  data() {
+    return {
+      white: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=',
+      lions: [
+        { id: 1, name: 'Ashur', img: "lion_ashur.jpg", link: 'AshurNft'},
+        { id: 2, name: 'Anlion', img: "lion_anlil.jpg", link: 'LazyLionAnlion'},
+        { id: 3, name: 'Nine', img: "lion_nine.jpg", link: 'NineNft'},
+        { id: 4, name: 'Nin', img: "lion_nin.jpg", link: 'NinLioness'},
+      ],
+      getImgUrl(pic) {
+        return require('../../assets/images/'+ pic)
+      },
+      getLink(link) {
+        return 'https://twitter.com/'+ link
+      }
+    };
+  },
 };
 </script>
