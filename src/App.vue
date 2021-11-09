@@ -9,14 +9,11 @@
       <section-5 />
     </div>
     <Footer />
-    <!-- <Nav class="mb-6" />
-    <HelloWorld msg="Welcome to Your Vue.js App" class="text-center"/> -->
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
-// import Nav from './components/Nav.vue'
+
 import Header from "./pages/header.vue";
 import Footer from "./pages/footer.vue";
 import Section1 from './pages/sections/section1.vue';
@@ -35,8 +32,6 @@ export default {
     Section3,
     Section4,
     Section5,
-    // HelloWorld,
-    // Nav
   },
 };
 </script>
