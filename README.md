@@ -1,4 +1,4 @@
-# NFT Crypto VueX & TailwindCSS App - Lion
+# NFT Crypto VueX & TailwindCSS App - Lion 2
 
 ## Project Info
 
