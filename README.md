@@ -1,6 +1,5 @@
 # NFT Crypto VueX & TailwindCSS App - Lion 4
 
-<img src="https://prnt.sc/FZGmDidD0TZ_" />
 ## Project Info
 
 This project uses standard Tailwind CSS built for the Vue.js starter app. Demo includes the nav component straight from the Tailwind CSS examples.
