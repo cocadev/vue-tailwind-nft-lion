@@ -1,4 +1,4 @@
-# NFT Crypto VueX & TailwindCSS App - Lion 9
+# NFT Crypto VueX & TailwindCSS App - Lion 10
 
 ## Project Info
 
