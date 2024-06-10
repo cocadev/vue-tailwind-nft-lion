@@ -1,4 +1,4 @@
-# NFT Crypto VueX & TailwindCSS App
+# NFT Crypto VueX & TailwindCSS App 2
 
 ## Project Info
 
